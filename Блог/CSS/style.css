@@ -286,10 +286,13 @@ h1 {
 }
 
 .footer__top-item {
-  color: #FFFFFF;
   font-weight: 700;
   line-height: 24px;
   margin-right: 30px;
+}
+
+.footer__top-item a {
+  color: #FFFFFF;
 }
 
 .footer__form {
@@ -362,10 +365,11 @@ h1 {
   font-weight: 400;
   line-height: 20px;
   opacity: 0.7;
-  color: #FFFFFF;
 }
 
-
+.footer__bottom-item a {
+  color: #FFFFFF;
+}
 
 
 /* @media */
